@@ -26,7 +26,7 @@
     <label >sprouts
         <input type="checkbox" name="condiment" value="sprouts">
     </label>
-    <button type="submit" name="condiment" value="">save</button>
+    <button type="submit" >save</button>
 </form>
 <hr>
 <c:if test="${condiment != null}">
